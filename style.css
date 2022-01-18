@@ -1,0 +1,21 @@
+.grid {
+    display: flex; 
+    flex-wrap: wrap; 
+    height: 300px; 
+    width: 400px; 
+    box-shadow: 6px 6px 15px black; 
+}
+body {
+    background-color: #fff7f7; 
+    background-image: url('images/background.jpeg'); 
+    background-size: 600px 870px; 
+}
+h3 {
+    color: #490554; 
+    font-size: 20px; 
+}
+h1 {
+    text-align: left; 
+    padding-left: 55px;
+    color: #490554; 
+}
